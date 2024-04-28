@@ -25,7 +25,6 @@ python download_and_make_datasets.py
 ```
 Copy these dirs (Concept dirs, label dir, random dirs) to Dir 'image_net_subsets'.
 
-![img](img/fig1.png)
 
 ## Run
 ```
